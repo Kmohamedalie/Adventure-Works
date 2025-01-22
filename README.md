@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/9cfc4529-0308-4333-94f1-93f87f986aa3
 <br>
 
 **Extra features:**
-- Button slicer 🔳
+- Button slicer 🔳:  creating custom new cards including images and pagination.
 
 
 https://github.com/user-attachments/assets/c20969fe-61b7-4b11-976e-0091b0697b54
