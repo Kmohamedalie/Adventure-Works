@@ -15,3 +15,16 @@ Microsoft Power BI Desktop 🖥️ for Business Intelligence by [Maven Analytics
 
 https://github.com/user-attachments/assets/9cfc4529-0308-4333-94f1-93f87f986aa3
 
+
+
+
+<br>
+<br>
+
+**Extra features:**
+- Button slicer 🔳
+
+
+https://github.com/user-attachments/assets/c20969fe-61b7-4b11-976e-0091b0697b54
+
+
