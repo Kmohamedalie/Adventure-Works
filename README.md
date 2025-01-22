@@ -15,11 +15,11 @@ Completed project finals are available on demand [write me! ✍🏼](https://www
 
 <br>
 
-**Report pages (Nav):** <br>
+**Report pages (Navigation):** <br>
 
 |      Page 1     |    Page 2     | Page 3             |     Page 4       | 
 | ----------------| ------------- | ------------------ | -----------------|
-|Exec Dashboard 💼| Map 🗺️       | Product Detail 🧾 |Customer Detail 🙍🏼‍♀️|
+|Executive Dashboard 💼| Map 🗺️       | Product Detail 🧾 |Customer Detail 🙍🏼‍♀️|
 
 
 <br>
