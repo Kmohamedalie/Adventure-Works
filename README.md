@@ -2,14 +2,25 @@
 Microsoft Power BI Desktop🖥️ for Business Intelligence 📊 training by [Maven Analytics](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/). <br>
 Completed project finals are available on demand [write me! ✍🏼](https://www.linkedin.com/in/mohamed-alie-kamara-8765941a4/)
 
+<br>
+<br>
+
+
+![image](https://github.com/user-attachments/assets/8057f6db-69c4-4d11-ae2a-24598931c55a)
 
 <br>
 
-**Report pages:**
-- Exec Dashboard 💼
-- Map 🗺️
-- Product Detail 🧾
-- Customer Detail 🙍🏼‍♀️
+
+
+
+<br>
+
+**Report pages (Nav):** <br>
+
+|      Page 1     |    Page 2     | Page 3             |     Page 4       | 
+| ----------------| ------------- | ------------------ | -----------------|
+|Exec Dashboard 💼| Map 🗺️       | Product Detail 🧾 |Customer Detail 🙍🏼‍♀️|
+
 
 <br>
 
